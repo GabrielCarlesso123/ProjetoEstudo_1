@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "6442be71869083128f49b663",
+    "name": "Leite Condensado",
+    "quantity": 15,
+    "price": 7.99,
+    "createdAt": "2023-04-21T16:48:49.438Z",
+    "updatedAt": "2023-04-21T16:48:49.438Z",
+    "__v": 0
+  },
+  {
+    "_id": "6442cd202a2c45a33861aa03",
+    "name": "Arroz",
+    "quantity": 20,
+    "price": 4.99,
+    "createdAt": "2023-04-21T17:51:28.364Z",
+    "updatedAt": "2023-04-21T17:51:28.364Z",
+    "__v": 0
+  },
+  {
+    "_id": "6442cd202a2c45a33861aa04",
+    "name": "Feijão",
+    "quantity": 10,
+    "price": 6.99,
+    "createdAt": "2023-04-21T17:51:28.364Z",
+    "updatedAt": "2023-04-21T17:51:28.364Z",
+    "__v": 0
+  },
+  {
+    "_id": "6442cd202a2c45a33861aa07",
+    "name": "Açúcar",
+    "quantity": 25,
+    "price": 2.99,
+    "createdAt": "2023-04-21T17:51:28.364Z",
+    "updatedAt": "2023-04-21T17:51:28.364Z",
+    "__v": 0
+  },
+  {
+    "_id": "6442cd202a2c45a33861aa08",
+    "name": "Manteiga",
+    "quantity": 5,
+    "price": 12.99,
+    "createdAt": "2023-04-21T17:51:28.364Z",
+    "updatedAt": "2023-04-21T17:51:28.364Z",
+    "__v": 0
+  },
+  {
+    "_id": "6442cd202a2c45a33861aa09",
+    "name": "Farinha de Trigo",
+    "quantity": 18,
+    "price": 3.49,
+    "createdAt": "2023-04-21T17:51:28.364Z",
+    "updatedAt": "2023-04-21T17:51:28.364Z",
+    "__v": 0
+  },
+  {
+    "_id": "6442cd202a2c45a33861aa0a",
+    "name": "Macarrão",
+    "quantity": 13,
+    "price": 1.99,
+    "createdAt": "2023-04-21T17:51:28.364Z",
+    "updatedAt": "2023-04-21T17:51:28.364Z",
+    "__v": 0
+  },
+  {
+    "_id": "6442cd202a2c45a33861aa05",
+    "name": "Óleo de Soja",
+    "quantity": 12,
+    "price": 3.99,
+    "createdAt": "2023-04-21T17:51:28.364Z",
+    "updatedAt": "2023-04-21T17:51:28.364Z",
+    "__v": 0
+  },
+  {
+    "_id": "6442cd202a2c45a33861aa06",
+    "name": "Café",
+    "quantity": 8,
+    "price": 9.99,
+    "createdAt": "2023-04-21T17:51:28.364Z",
+    "updatedAt": "2023-04-21T17:51:28.364Z",
+    "__v": 0
+  },
+  {
+    "_id": "6442cd202a2c45a33861aa0b",
+    "name": "Cerveja",
+    "quantity": 24,
+    "price": 3.49,
+    "createdAt": "2023-04-21T17:51:28.364Z",
+    "updatedAt": "2023-04-21T17:51:28.364Z",
+    "__v": 0
+  }
+]
